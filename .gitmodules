@@ -1,0 +1,6 @@
+[submodule "2048_GameModel_xplat_cpp_cmake"]
+	path = 2048_GameModel_xplat_cpp_cmake
+	url = https://github.com/jessehao/2048_GameModel_xplat_cpp_cmake.git
+[submodule "xplatform"]
+	path = xplatform
+	url = https://github.com/Tberdy/xplatform.git
