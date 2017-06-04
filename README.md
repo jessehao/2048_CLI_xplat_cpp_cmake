@@ -16,7 +16,7 @@ Programming Language: C++11.
   
 - **Tberdy/[xplatform](https://github.com/Tberdy/xplatform)**
   
-  Cross-platform conio.h
+  Cross-platform version of "conio.h".
   
 # Get
 
@@ -26,7 +26,7 @@ git clone https://github.com/jessehao/2048_CLI_xplat_cpp_cmake.git
 
 # Build
 
-before build this project, you need CMake first.
+before build this project, you need [CMake](https://cmake.org/) first.
 
 then change to the directory, and use the shell or cmd run following command.
 
